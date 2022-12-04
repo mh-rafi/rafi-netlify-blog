@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Mahmudul Hasan Rafi
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Founder, Developer, Tech enthusiast
+subheading: Founder, Developer, Tech enthusiast, Biker
 mainpitch:
   title: Why Kaldi
   description: >
